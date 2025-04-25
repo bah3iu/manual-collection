@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 publisher,Publisher,,,,
 date,Date Created,,,DCTERMS.date,dateCreated
+console,Console,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat

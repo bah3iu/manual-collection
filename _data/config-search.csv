@@ -2,3 +2,4 @@ field,index,display
 title,true,true
 date,true,true
 publisher,true,false
+console,true,true
