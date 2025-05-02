@@ -4,7 +4,7 @@ layout: cloud
 permalink: /console.html
 # Default subject page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.console-fields"
-cloud-fields: site.data.theme.console-fields
+cloud-fields: console
 ---
 
 ## Browse Consoles
